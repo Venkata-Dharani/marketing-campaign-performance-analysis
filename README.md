@@ -16,6 +16,9 @@ marketing-campaign-performance-analysis/
 │   └── marketing_campaign.csv
 ├── notebooks/
 │   └── marketing_campaign_analysis.ipynb
+├── images/
+│   ├── confusion_matrix.png
+│   └── model_results.png
 ├── README.md
 └── requirements.txt
 ```   
@@ -47,4 +50,5 @@ The model helps identify customers who are more likely to respond to marketing c
 2. Install dependencies using `pip install -r requirements.txt`
 3. Open the notebook in the `notebooks/` folder
 4. Run all cells sequentially
+
 
