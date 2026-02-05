@@ -10,14 +10,15 @@ Marketing Campaign Dataset (Kaggle)
 To predict whether a customer will respond to a marketing campaign and identify key factors influencing campaign success.
 
 ## Project Structure
-
+```   
 marketing-campaign-performance-analysis/
 ├── data/
-│ └── marketing_campaign.csv
+│   └── marketing_campaign.csv
 ├── notebooks/
-│ └── marketing_campaign_analysis.ipynb
+│   └── marketing_campaign_analysis.ipynb
 ├── README.md
 └── requirements.txt
+```   
 
 ## Requirements
 - pandas
@@ -46,3 +47,4 @@ The model helps identify customers who are more likely to respond to marketing c
 2. Install dependencies using `pip install -r requirements.txt`
 3. Open the notebook in the `notebooks/` folder
 4. Run all cells sequentially
+
